@@ -11,5 +11,5 @@
     opens com.guru13;
     opens com.guru13.view;
     opens com.guru13.controller;
-//    opens com.guru13.model;
+    opens com.guru13.model;
 }
